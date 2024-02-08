@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\s\s\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ooutt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="statics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="supliers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
